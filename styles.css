@@ -1,0 +1,50 @@
+p, li, h1 {
+	color: purple;
+}
+
+h2{
+	color: blue;
+}
+
+html{
+	font-size: 16px;
+	font-family: "Open Sans", sans-serif;
+}
+
+h1{
+	font-size: 60px;
+	text-align: center;
+}
+
+p, li{
+	font-size: 18px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+html{
+	background-color: #A3B6E8;
+}
+
+body{
+	width: 800px;
+	margin: 0 auto;
+	background-color: #F3E89A;
+	paddig: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+h1{
+	margin: 0;
+	padding: 20px 0;
+	color: #00539f;
+	text-shadow: 7px 3px 1px black;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+	max-width: 50%;
+	max-height: 50%;
+}
+
